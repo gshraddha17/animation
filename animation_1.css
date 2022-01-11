@@ -10,11 +10,8 @@
 }
 
 @keyframes moveSquare{
-	0%{top:0px;left:0px;}
-    25%{top:100px;left:400px;}
-    50%{top:300px;left:400px;}
-    75%{top:300px;left:0px;}
-    100%{top:0px;left:0px;}
-
+	0%{top:0px}
+	25%{top:100px}
+	100%{top:200px}
 }
 
