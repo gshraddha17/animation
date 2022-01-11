@@ -3,7 +3,7 @@
 	height:100px;
 	background:blue;
 	animation-name: moveSquare;
-	animation-duration:5s 5;
+	animation-duration:5s;
 	animation-delay:2s;
 	position:relative;
 	animation-iteration-count:infinite;
